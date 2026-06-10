@@ -1,5 +1,5 @@
 Collaboration Demo Project
-Version 2.1
+Version 3.0
 
 Feature Description:
 This project demonstrates collaboration workflows.
